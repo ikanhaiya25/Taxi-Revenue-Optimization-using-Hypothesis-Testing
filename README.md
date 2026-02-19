@@ -1,4 +1,4 @@
-:::writing{variant=standard id=20001}
+
 # Taxi-Revenue-Optimization-using-Hypothesis-Testing
 The study specifically compares two common payment methods — card and cash — to identify whether one leads to higher average fares.
 
@@ -64,4 +64,3 @@ The findings suggest that encouraging customers to use card payments can potenti
   📚 Conclusion
 
 This project demonstrates how data analysis and hypothesis testing can be used to extract meaningful business insights. By combining data cleaning, visualization, and statistical testing, the analysis provides a clear understanding of how payment behavior influences revenue in the taxi industry.
-:::
