@@ -55,8 +55,9 @@ The findings suggest that encouraging customers to use card payments can potenti
 	•	Statsmodels
 
   ## How to Run
-	1.	Install the required libraries:
-  pip install -r requirements.txt
+  Install the required libraries:
+  
+	pip install -r requirements.txt
 
   ## 	Open the Jupyter Notebook:
   jupyter notebook
