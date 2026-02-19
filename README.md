@@ -60,8 +60,8 @@ The findings suggest that encouraging customers to use card payments can potenti
 	pip install -r requirements.txt
 
   ## 	Open the Jupyter Notebook:
-  jupyter notebook
+  	jupyter notebook
 
-  📚 Conclusion
+  ## Conclusion
 
 This project demonstrates how data analysis and hypothesis testing can be used to extract meaningful business insights. By combining data cleaning, visualization, and statistical testing, the analysis provides a clear understanding of how payment behavior influences revenue in the taxi industry.
