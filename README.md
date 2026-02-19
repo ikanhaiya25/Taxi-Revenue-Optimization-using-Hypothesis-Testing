@@ -51,6 +51,12 @@ The findings suggest that encouraging customers to use card payments can potenti
   
 	pip install -r requirements.txt
 
+  ## dataset
+  The dataset used in this project is publicly available and can be accessed from the following source:
+
+	https://data.world/vizwiz/nyc-taxi-jan-2020
+
+   It contains NYC taxi trip records, including details such as passenger count, trip distance, fare amount, payment type, and trip duration. These features were used to perform data 	      analysis and hypothesis testing.
   ## 	Open the Jupyter Notebook:
   	jupyter notebook
 
