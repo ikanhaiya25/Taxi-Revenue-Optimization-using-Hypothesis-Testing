@@ -6,8 +6,6 @@ The study specifically compares two common payment methods card and cash to iden
 
 The primary objective of this project is to examine the relationship between payment type and fare amount using statistical techniques. By applying hypothesis testing, the project aims to determine whether the difference in fares between card and cash payments is statistically significant.
 
-⸻
-
 ### Methodology
 
 1. Data Cleaning and Preprocessing
@@ -29,21 +27,15 @@ To determine the appropriate test, the distribution of fare amounts was examined
 
 As a result, a Welch’s T-test was applied to compare the mean fare amounts between card and cash payments. This test is suitable when population variance is unknown and sample sizes may differ.
 
-⸻
-
 ### Key Findings
 
 The results of the hypothesis test showed that the p-value is lower than the significance level (0.05). Therefore, the null hypothesis was rejected, indicating that there is a statistically significant difference in fare amounts between the two payment methods.
 
 It was observed that customers paying via card tend to have higher average fares compared to those paying with cash.
 
-⸻
-
 ### Business Insight
 
 The findings suggest that encouraging customers to use card payments can potentially increase driver revenue. This insight can be useful for taxi platforms and drivers when designing strategies to promote digital payments without negatively impacting customer experience.
-
-⸻
 
 ### Tech Stack
 
